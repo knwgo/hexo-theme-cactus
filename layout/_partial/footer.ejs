@@ -8,13 +8,4 @@
     <a href="http://beian.miit.gov.cn/" target="_blank">皖ICP备18000636号</a>
     <a href="https://ipw.cn/ipv6webcheck/?site=kayn.wang" title="本站支持IPv6访问" target='_blank'><img style='display:inline-block;vertical-align:middle' alt="本站支持IPv6访问" src="https://static.ipw.cn/icon/ipv6-certified-lite-s2.svg"></a>
   </div>
-  <div class="footer-right">
-    <nav>
-      <ul>
-        <% for (var i in theme.nav) { %><!--
-       --><li><a href="<%- url_for(theme.nav[i]) %>"><%= __('nav.'+i).replace("nav.", "") %></a></li><!--
-     --><% } %>
-      </ul>
-    </nav>
-  </div>
 </footer>

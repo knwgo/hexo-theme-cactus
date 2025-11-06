@@ -15,8 +15,8 @@ direction: ltr
 # languages/*.yml
 nav:
   Home 🏠: /
-  About 🔍: /about/
   Articles 📖: /archives/
+  About 🔍: /about/
   Gallery 📷: https://immich.kayn.wang/share/2VaFCBimSCimMHFQ0UOQPs9cH9zp9l3Fty9EFlDcMd48nMYOmmj_q_4-LSAH30sFPVo
 
 
